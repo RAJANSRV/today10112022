@@ -9,7 +9,6 @@ env:
  ECR_REPOSITORY: greens-ci-cd-eks
 
 
-
 jobs:
  release:
   name: Release
