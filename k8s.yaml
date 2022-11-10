@@ -36,7 +36,7 @@ spec:
     spec:
       containers:
       - name: green-eks
-        image: default/greens-demo
+        image: 68ecb8853c4a
         ports:
           - containerPort: 9000
             name: green-eks
